@@ -15,5 +15,20 @@ Project UAS Mata kuliah Game Programming
 ![level 2](./images/4.png)
 ![Resume](./images/5.png)
 
+# How
 
+Keyboard :
+- Right Arrow (→) : untuk menggerakkan karakter ke arah kanan
+- Left Arrow (←) : untuk menggerakkan karakter ke arah kiri
+- Space : untuk Lompat / Jump
+- J : Menembak / Shoot
+- L : Lift
 
+Gamepad :
+- Arah : menggerakkan karakter ke arah kanan dan kiri
+- A : Lompat / Jump
+- B : Menembak / Shoot
+- Y : Lift
+- X : Roll
+
+*Note : Use Gamepad for better experience
