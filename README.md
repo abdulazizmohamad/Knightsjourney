@@ -32,3 +32,7 @@ Gamepad :
 - X : Roll
 
 *Note : Use Gamepad for better experience
+
+# How
+
+https://youtu.be/A5X_Df06o7M
