@@ -17,7 +17,7 @@ menggunakan Godot Engine
 ![Resume](./images/5.png)
 
 # Game Design Documents (GDD)
-![GDD]([GAME DESIGN DOCUMENT (GDD).pdf](https://github.com/abdulazizmohamad/Knightsjourney/blob/main/GAME%20DESIGN%20DOCUMENT%20(GDD).pdf))
+[GDD]([GAME DESIGN DOCUMENT (GDD).pdf](https://github.com/abdulazizmohamad/Knightsjourney/blob/main/GAME%20DESIGN%20DOCUMENT%20(GDD).pdf))
 
 # Guide
 
