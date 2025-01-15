@@ -17,7 +17,7 @@ menggunakan Godot Engine
 ![Resume](./images/5.png)
 
 # Game Design Documents (GDD)
-![GDD](./GAME DESIGN & ONE SHEET/GAME DESIGN DOCUMENT (GDD).pdf)
+![GDD](GAME DESIGN DOCUMENT (GDD).pdf)
 
 # Guide
 
