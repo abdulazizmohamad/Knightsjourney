@@ -25,7 +25,7 @@ Keyboard :
 - L : Lift
 
 Gamepad :
-- Arah : menggerakkan karakter ke arah kanan dan kiri
+- D-Pad (Left & Right) : menggerakkan karakter ke arah kanan dan kiri
 - A : Lompat / Jump
 - B : Menembak / Shoot
 - Y : Lift
