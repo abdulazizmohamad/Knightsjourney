@@ -15,7 +15,7 @@ Project UAS Mata kuliah Game Programming
 ![level 2](./images/4.png)
 ![Resume](./images/5.png)
 
-# How
+# Guide
 
 Keyboard :
 - Right Arrow (→) : untuk menggerakkan karakter ke arah kanan
@@ -33,7 +33,7 @@ Gamepad :
 
 *Note : Use Gamepad for better experience
 
-# Implementation
+# Presentation
 [Mohamad Abdul Aziz youtube](https://youtu.be/A5X_Df06o7M)
 
 
