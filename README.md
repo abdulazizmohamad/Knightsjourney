@@ -1,11 +1,11 @@
-# Desc
+# Team
 Nama   : Mohamad Abdul Aziz
 
 NIM    : A18.2023.00043
 
 Progdi : PJJ Teknik Informatika Udinus
 
-# What
+# About
 Project UAS Mata kuliah Game Programming 
 
 ![Main Menu](./images/1.png)
