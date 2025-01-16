@@ -22,7 +22,6 @@ Nama Game : Aldric Knight's Journey
 # Game Design Documents (GDD)
 [GAME DESIGN DOCUMENT (GDD)](https://github.com/abdulazizmohamad/Knightsjourney/blob/main/GAME%20DESIGN%20DOCUMENT%20(GDD).pdf)
 
-[One-Sheet](https://github.com/abdulazizmohamad/Knightsjourney/blob/main/One-Sheet%20Document.pdf)
 
 # Guide
 
