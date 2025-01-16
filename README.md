@@ -11,6 +11,7 @@
 Project UAS Mata kuliah Game Programming membuat game design document dan implementasi sebuah prototipe video game sederhana 
 menggunakan Godot Engine
 
+Nama Game : Aldric Knight's Journey
 ![Main Menu](./images/1.png)
 
 
