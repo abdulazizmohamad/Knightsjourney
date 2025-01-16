@@ -1,9 +1,11 @@
 # Team
-Nama   : Mohamad Abdul Aziz
 
-NIM    : A18.2023.00043
+- Mohamad Abdul Aziz (A18.2023.00043)
+-	Zakaria (A18.2023.00048)
+-	Izal Aoni (A18.2023.00049)
+-	Ratono (A18.2023.00050)
 
-Progdi : PJJ Teknik Informatika Udinus
+=== PJJ Teknik Informatika Udinus ===
 
 # About
 Project UAS Mata kuliah Game Programming membuat game design document dan implementasi sebuah prototipe video game sederhana 
