@@ -1,14 +1,17 @@
 # Team
-Nama   : Mohamad Abdul Aziz
 
-NIM    : A18.2023.00043
+- Mohamad Abdul Aziz (A18.2023.00043)
+-	Zakaria (A18.2023.00048)
+-	Izal Aoni (A18.2023.00049)
+-	Ratono (A18.2023.00050)
 
-Progdi : PJJ Teknik Informatika Udinus
+=== PJJ Teknik Informatika Udinus ===
 
 # About
 Project UAS Mata kuliah Game Programming membuat game design document dan implementasi sebuah prototipe video game sederhana 
 menggunakan Godot Engine
 
+Nama Game : Aldric Knight's Journey
 ![Main Menu](./images/1.png)
 
 
@@ -17,7 +20,9 @@ menggunakan Godot Engine
 ![Resume](./images/5.png)
 
 # Game Design Documents (GDD)
-![GDD](./GAME DESIGN & ONE SHEET/GAME DESIGN DOCUMENT (GDD).pdf)
+[GAME DESIGN DOCUMENT (GDD)](https://github.com/abdulazizmohamad/Knightsjourney/blob/main/GAME%20DESIGN%20DOCUMENT%20(GDD).pdf)
+
+[One-Sheet](https://github.com/abdulazizmohamad/Knightsjourney/blob/main/One-Sheet%20Document.pdf)
 
 # Guide
 
@@ -38,7 +43,7 @@ Gamepad :
 *Note : Use Gamepad for better experience
 
 # Presentation
-[Mohamad Abdul Aziz youtube](https://youtu.be/A5X_Df06o7M)
+[YouTube]()
 
 
 
